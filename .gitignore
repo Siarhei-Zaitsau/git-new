@@ -1,6 +1,11 @@
 # Built application files
-*.apk
-*.aar
+*.log
+*.db
+target/
+bin/
+dreamsSong.txt
+
+
 *.ap_
 *.aab
 
